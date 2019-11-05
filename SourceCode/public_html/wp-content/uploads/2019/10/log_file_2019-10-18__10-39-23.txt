@@ -1,0 +1,57 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://legarden.22domain.com
+Data file = /home/cnyzavin/domains/legarden.22domain.com/public_html/wp-content/uploads/2019/10/1-democontent1.WordPress.xml
+Widget file = /home/cnyzavin/domains/legarden.22domain.com/public_html/wp-content/uploads/2019/10/2-democontent1.widgets.wie
+Customizer file = /home/cnyzavin/domains/legarden.22domain.com/public_html/wp-content/uploads/2019/10/3-democontent1.customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+Homepage : 
+
+GloriaFood - Text and Image - We Are Pronto NY - Imported
+GloriaFood - Promo Cards - No Title - Imported
+GloriaFood - Photo Gallery - Delicious Italian Food - Imported
+Custom HTML - No Title - Imported
+GloriaFood - Text and Image - Food Delivery in NY - Imported
+
+Footer middle : 
+
+Text - Contact Us - Imported
+
+Footer left : 
+
+Navigation Menu - Useful Links - Imported
+
+Footer right : 
+
+Text - Opening Hours - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
